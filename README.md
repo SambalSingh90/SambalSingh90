@@ -7,6 +7,17 @@
 🚀 Currently learning AWS, Docker, Terraform, Kubernetes and DevOps.
 
 
+# 👨‍💻 About Me
+
+Welcome to my GitHub profile!
+
+I'm Sambal Singh, a BCA graduate and an aspiring Software Engineer with a passion for Frontend Development, Cloud Computing, and DevOps.
+
+I enjoy building modern, user-friendly web applications and continuously expanding my knowledge of AWS, Docker, Linux, Git, and React. I believe in learning by building projects and improving my skills every day.
+
+I'm currently seeking opportunities where I can contribute, learn from experienced developers, and grow in the software industry.
+
+
 <!--
 **SambalSingh90/SambalSingh90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
