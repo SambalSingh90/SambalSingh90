@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋, I'm Sambal Singh
+
+### Frontend Developer | Cloud & DevOps Enthusiast
+
+💻 Passionate about building responsive web applications and cloud solutions.
+
+🚀 Currently learning AWS, Docker, Terraform, Kubernetes and DevOps.
+
 
 <!--
 **SambalSingh90/SambalSingh90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
